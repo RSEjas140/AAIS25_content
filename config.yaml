@@ -12,10 +12,10 @@
 # This option supports custom types so lessons can be branded
 # and themed with your own logo and alt-text (see `carpentry_description`)
 # See https://carpentries.github.io/sandpaper-docs/editing.html#adding-a-custom-logo
-carpentry: 'dc'
+carpentry: 'swc'
 
 # Alt-text description of the lesson.
-carpentry_description: 'Lesson Description'
+carpentry_description: 'Aberystwyth AI Summer School 2025'
 
 # Overall title for pages.
 title: 'Aberystwyth University AI SummerSchool' # FIXME
@@ -28,7 +28,7 @@ keywords: 'software, data, lesson, The Carpentries' # FIXME
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
-life_cycle: 'pre-alpha' # FIXME
+life_cycle: 'alpha' # FIXME
 
 # License of the lesson
 license: 'CC-BY 4.0'
@@ -40,7 +40,7 @@ source: 'https://github.com/RSEjas140/AAIS25_content/'
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'team@carpentries.org' # FIXME
+contact: 'jas140@aber.ac.uk' # FIXME
 
 # Navigation ------------------------------------------------
 #
@@ -66,7 +66,8 @@ contact: 'team@carpentries.org' # FIXME
 
 # Order of episodes in your lesson
 episodes: 
-- introduction.Rmd
+- 00-worked-example.Rmd
+- 01-problem-definition.md
 
 # Information for Learners
 learners: 
