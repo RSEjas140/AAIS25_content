@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://RSEjas140.github.io/AAIS25_content/00-worked-example.html</loc>
+  </url>
+  <url>
     <loc>https://RSEjas140.github.io/AAIS25_content/01-introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://RSEjas140.github.io/AAIS25_content/01-problem-definition.html</loc>
   </url>
   <url>
     <loc>https://RSEjas140.github.io/AAIS25_content/404.html</loc>
@@ -22,7 +28,13 @@
     <loc>https://RSEjas140.github.io/AAIS25_content/index.html</loc>
   </url>
   <url>
+    <loc>https://RSEjas140.github.io/AAIS25_content/instructor/00-worked-example.html</loc>
+  </url>
+  <url>
     <loc>https://RSEjas140.github.io/AAIS25_content/instructor/01-introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://RSEjas140.github.io/AAIS25_content/instructor/01-problem-definition.html</loc>
   </url>
   <url>
     <loc>https://RSEjas140.github.io/AAIS25_content/instructor/404.html</loc>
